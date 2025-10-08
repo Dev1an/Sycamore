@@ -1,5 +1,5 @@
 # Redirects from what the browser requests to what we serve
 
-/pay HTTPS://PAYCONIQ.COM/PAYME/1/SOIXM5Q3D6NS
+/pay https://payconiq.com/payme/1/soixm5q3d6ns
 /tables https://damiaanmedia.s3.eu-west-3.amazonaws.com/Sycamore+(re%CC%81ponses)+-+Tables.pdf
 /survey https://docs.google.com/forms/d/e/1FAIpQLScuH-jP6Q-aznSJHCEcETZCIxmfnLCyLE0nLt-XHRy9LsdvwA/viewform
